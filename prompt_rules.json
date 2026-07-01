@@ -1,0 +1,30 @@
+{
+  "prompt_injection": [
+    "ignore previous instructions",
+    "forget previous instructions",
+    "override previous instructions",
+    "ignore all instructions",
+    "system prompt",
+    "developer mode",
+    "reveal prompt",
+    "bypass safety"
+  ],
+
+  "jailbreak": [
+    "DAN",
+    "do anything now",
+    "jailbreak",
+    "pretend you are",
+    "ignore policies",
+    "unfiltered AI"
+  ],
+
+  "sensitive_data": [
+    "password",
+    "api key",
+    "access token",
+    "secret",
+    "credentials",
+    "private key"
+  ]
+}
